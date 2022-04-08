@@ -1,1 +1,7 @@
+<<<<<<< .merge_file_a02344
+sajtos
+=======
+nem sajtos
+>>>>>>> .merge_file_a07136
+
 sajtos
